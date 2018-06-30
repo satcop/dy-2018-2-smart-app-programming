@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">노래 목록1</string>
+
+    <string name="title1">학교종</string>
+    <string name="artist1">김메리</string>
+    <string name="time1">00:00:19</string>
+</resources>
