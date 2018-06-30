@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">명화 앨범1</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="title01">Starry Night</string>
+    <string name="artist01">고흐</string>
+
+    <string name="title02">Still Life with Kettle</string>
+    <string name="artist02">폴 세잔</string>
+
+    <string name="title03">The Angelus</string>
+    <string name="artist03">밀레</string>
+
+    <string name="title04">The Cliff of Aval</string>
+    <string name="artist04">모네</string>
+
+</resources>
