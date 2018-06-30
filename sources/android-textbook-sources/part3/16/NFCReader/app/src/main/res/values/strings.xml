@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">태그 읽기</string>
+    <string name="guide">태그를 터치해 주세요.</string>
+</resources>
