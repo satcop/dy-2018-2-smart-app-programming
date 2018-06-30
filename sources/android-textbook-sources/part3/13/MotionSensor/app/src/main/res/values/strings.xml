@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">모션 센서</string>
+
+    <string name="sensor_gravity">중력</string>
+    <string name="sensor_accelerometer">가속도</string>
+    <string name="sensor_linear_acceleration">직선 가속도</string>
+    <string name="sensor_gyroscope">자이로스코프</string>
+</resources>
