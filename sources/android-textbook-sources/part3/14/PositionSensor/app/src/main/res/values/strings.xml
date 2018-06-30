@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">위치 센서</string>
+
+    <string name="sensor_orientation">방위각</string>
+    <string name="sensor_magnetic_field">자기장</string>
+    <string name="sensor_proximity">근접</string>
+</resources>
