@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">노래 목록3</string>
+
+    <string name="title1">학교종</string>
+    <string name="artist1">김메리</string>
+    <string name="time1">00:00:19</string>
+    <string name="audio1">schoolbell</string>
+
+    <string name="title2">코끼리아저씨</string>
+    <string name="artist2">강소현/박태현</string>
+    <string name="time2">00:00:16</string>
+    <string name="audio2">elephant</string>
+
+    <string name="title3">산토끼</string>
+    <string name="artist3">이일래</string>
+    <string name="time3">00:00:16</string>
+    <string name="audio3">hare</string>
+</resources>
