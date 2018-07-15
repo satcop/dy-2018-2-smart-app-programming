@@ -1,0 +1,32 @@
+<resources>
+	<string name="app_name">Text1</string>
+
+
+	<string name="title01">
+		제목1
+	</string>
+
+	<string name="author01">
+		작가1
+	</string>
+
+	<string name="body01">
+		나는 자랑스런 태극기 앞에 조국과 민족의 무궁한 영광을 위하여
+		몸과 마음을 바쳐 충성을 다할것을 굳게 다짐합니다.
+	</string>
+
+	<string name="title02">
+		제목2
+	</string>
+
+	<string name="author02">
+		작가2
+	</string>
+
+	<string name="body02">
+		우리는 민족 중흥의 역사적 사명을 띄고 이땅에 태어났다.
+		조국의 빛난 얼을 오늘에 되살려
+		안으로는
+	</string>
+
+</resources>
