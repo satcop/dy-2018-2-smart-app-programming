@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	tools:context=".MainActivity">
+
+	<ScrollView
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		android:padding="10dp"
+		android:background="#ff00ff"
+		android:fillViewport="true"
+		>
+
+		<LinearLayout
+			android:layout_width="match_parent"
+			android:layout_height="match_parent"
+			android:orientation="vertical">
+
+			<LinearLayout
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:background="@drawable/shape_list"
+				android:orientation="vertical">
+
+				<TextView
+					android:id="@+id/title01"
+					android:layout_width="match_parent"
+					android:layout_height="wrap_content"
+					android:text="@string/title_01" />
+
+				<TextView
+					android:id="@+id/author01"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:text="@string/author_01" />
+
+				<TextView
+					android:id="@+id/desc01"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:text="@string/desc_01" />
+
+			</LinearLayout>
+
+			<LinearLayout
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:background="@drawable/shape_list"
+				android:orientation="vertical">
+
+
+				<TextView
+					android:id="@+id/title02"
+					android:layout_width="match_parent"
+					android:layout_height="wrap_content"
+					android:text="@string/title_02" />
+
+				<TextView
+					android:id="@+id/author02"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:text="@string/author_02" />
+
+				<TextView
+					android:id="@+id/desc02"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:text="@string/desc_02" />
+
+
+			</LinearLayout>
+
+			<LinearLayout
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:background="@drawable/shape_list"
+				android:orientation="vertical">
+
+
+				<TextView
+					android:id="@+id/title02"
+					android:layout_width="match_parent"
+					android:layout_height="wrap_content"
+					android:text="@string/title_02" />
+
+				<TextView
+					android:id="@+id/author02"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:text="@string/author_02" />
+
+				<TextView
+					android:id="@+id/desc02"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:text="@string/desc_02" />
+
+
+			</LinearLayout>
+			<LinearLayout
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:background="@drawable/shape_list"
+				android:orientation="vertical">
+
+				<TextView
+					android:id="@+id/title01"
+					android:layout_width="match_parent"
+					android:layout_height="wrap_content"
+					android:text="@string/title_01" />
+
+				<TextView
+					android:id="@+id/author01"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:text="@string/author_01" />
+
+				<TextView
+					android:id="@+id/desc01"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:text="@string/desc_01" />
+
+			</LinearLayout>
+
+			<LinearLayout
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:background="@drawable/shape_list"
+				android:orientation="vertical">
+
+
+				<TextView
+					android:id="@+id/title02"
+					android:layout_width="match_parent"
+					android:layout_height="wrap_content"
+					android:text="@string/title_02" />
+
+				<TextView
+					android:id="@+id/author02"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:text="@string/author_02" />
+
+				<TextView
+					android:id="@+id/desc02"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:text="@string/desc_02" />
+
+
+			</LinearLayout>
+
+			<LinearLayout
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:background="@drawable/shape_list"
+				android:orientation="vertical">
+
+
+				<TextView
+					android:id="@+id/title02"
+					android:layout_width="match_parent"
+					android:layout_height="wrap_content"
+					android:text="@string/title_02" />
+
+				<TextView
+					android:id="@+id/author02"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:text="@string/author_02" />
+
+				<TextView
+					android:id="@+id/desc02"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:text="@string/desc_02" />
+
+
+			</LinearLayout>	<LinearLayout
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:background="@drawable/shape_list"
+			android:orientation="vertical">
+
+			<TextView
+				android:id="@+id/title01"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:text="@string/title_01" />
+
+			<TextView
+				android:id="@+id/author01"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:text="@string/author_01" />
+
+			<TextView
+				android:id="@+id/desc01"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:text="@string/desc_01" />
+
+		</LinearLayout>
+
+			<LinearLayout
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:background="@drawable/shape_list"
+				android:orientation="vertical">
+
+
+				<TextView
+					android:id="@+id/title02"
+					android:layout_width="match_parent"
+					android:layout_height="wrap_content"
+					android:text="@string/title_02" />
+
+				<TextView
+					android:id="@+id/author02"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:text="@string/author_02" />
+
+				<TextView
+					android:id="@+id/desc02"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:text="@string/desc_02" />
+
+
+			</LinearLayout>
+
+			<LinearLayout
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:background="@drawable/shape_list"
+				android:orientation="vertical">
+
+
+				<TextView
+					android:id="@+id/title02"
+					android:layout_width="match_parent"
+					android:layout_height="wrap_content"
+					android:text="@string/title_02" />
+
+				<TextView
+					android:id="@+id/author02"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:text="@string/author_02" />
+
+				<TextView
+					android:id="@+id/desc02"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:text="@string/desc_02" />
+
+
+			</LinearLayout>	<LinearLayout
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:background="@drawable/shape_list"
+			android:orientation="vertical">
+
+			<TextView
+				android:id="@+id/title01"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:text="@string/title_01" />
+
+			<TextView
+				android:id="@+id/author01"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:text="@string/author_01" />
+
+			<TextView
+				android:id="@+id/desc01"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:text="@string/desc_01" />
+
+		</LinearLayout>
+
+			<LinearLayout
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:background="@drawable/shape_list"
+				android:orientation="vertical">
+
+
+				<TextView
+					android:id="@+id/title02"
+					android:layout_width="match_parent"
+					android:layout_height="wrap_content"
+					android:text="@string/title_02" />
+
+				<TextView
+					android:id="@+id/author02"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:text="@string/author_02" />
+
+				<TextView
+					android:id="@+id/desc02"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:text="@string/desc_02" />
+
+
+			</LinearLayout>
+
+			<LinearLayout
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:background="@drawable/shape_list"
+				android:orientation="vertical">
+
+
+				<TextView
+					android:id="@+id/title02"
+					android:layout_width="match_parent"
+					android:layout_height="wrap_content"
+					android:text="@string/title_02" />
+
+				<TextView
+					android:id="@+id/author02"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:text="@string/author_02" />
+
+				<TextView
+					android:id="@+id/desc02"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:text="@string/desc_02" />
+
+
+			</LinearLayout>	<LinearLayout
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:background="@drawable/shape_list"
+			android:orientation="vertical">
+
+			<TextView
+				android:id="@+id/title01"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:text="@string/title_01" />
+
+			<TextView
+				android:id="@+id/author01"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:text="@string/author_01" />
+
+			<TextView
+				android:id="@+id/desc01"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:text="@string/desc_01" />
+
+		</LinearLayout>
+
+			<LinearLayout
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:background="@drawable/shape_list"
+				android:orientation="vertical">
+
+
+				<TextView
+					android:id="@+id/title02"
+					android:layout_width="match_parent"
+					android:layout_height="wrap_content"
+					android:text="@string/title_02" />
+
+				<TextView
+					android:id="@+id/author02"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:text="@string/author_02" />
+
+				<TextView
+					android:id="@+id/desc02"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:text="@string/desc_02" />
+
+
+			</LinearLayout>
+
+			<LinearLayout
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:background="@drawable/shape_list"
+				android:orientation="vertical">
+
+
+				<TextView
+					android:id="@+id/title02"
+					android:layout_width="match_parent"
+					android:layout_height="wrap_content"
+					android:text="@string/title_02" />
+
+				<TextView
+					android:id="@+id/author02"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:text="@string/author_02" />
+
+				<TextView
+					android:id="@+id/desc02"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:text="@string/desc_02" />
+
+
+			</LinearLayout>	<LinearLayout
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:background="@drawable/shape_list"
+			android:orientation="vertical">
+
+			<TextView
+				android:id="@+id/title01"
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:text="@string/title_01" />
+
+			<TextView
+				android:id="@+id/author01"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:text="@string/author_01" />
+
+			<TextView
+				android:id="@+id/desc01"
+				android:layout_width="wrap_content"
+				android:layout_height="wrap_content"
+				android:text="@string/desc_01" />
+
+		</LinearLayout>
+
+			<LinearLayout
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:background="@drawable/shape_list"
+				android:orientation="vertical">
+
+
+				<TextView
+					android:id="@+id/title02"
+					android:layout_width="match_parent"
+					android:layout_height="wrap_content"
+					android:text="@string/title_02" />
+
+				<TextView
+					android:id="@+id/author02"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:text="@string/author_02" />
+
+				<TextView
+					android:id="@+id/desc02"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:text="@string/desc_02" />
+
+
+			</LinearLayout>
+
+			<LinearLayout
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:background="@drawable/shape_list"
+				android:orientation="vertical">
+
+
+				<TextView
+					android:id="@+id/title02"
+					android:layout_width="match_parent"
+					android:layout_height="wrap_content"
+					android:text="@string/title_02" />
+
+				<TextView
+					android:id="@+id/author02"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:text="@string/author_02" />
+
+				<TextView
+					android:id="@+id/desc02"
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:text="@string/desc_02" />
+
+
+			</LinearLayout>
+
+		</LinearLayout>
+
+
+	</ScrollView>
+
+</android.support.constraint.ConstraintLayout>

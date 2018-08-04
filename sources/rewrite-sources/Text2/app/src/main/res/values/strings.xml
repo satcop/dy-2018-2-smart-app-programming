@@ -1,0 +1,29 @@
+<resources>
+	<string name="app_name">Text2</string>
+
+
+	<string name="title_01">
+		별 헤는 밤
+	</string>
+
+	<string name="author_01">
+		윤동주
+	</string>
+
+	<string name="desc_01">
+		계절이 지나가는 하늘에는 가을로 가득 차 있습니다.
+	</string>
+
+	<string name="title_02">
+		가지 않은 길
+	</string>
+
+	<string name="author_02">
+		로버트 프로스트
+	</string>
+
+	<string name="desc_02">
+		단풍 든 숲 속에 두 갈래 길이 이었습니다. 한 몸이
+	</string>
+
+</resources>
