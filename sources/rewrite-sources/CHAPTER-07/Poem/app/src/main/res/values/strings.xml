@@ -1,0 +1,23 @@
+<resources>
+	<string name="app_name">Poem</string>
+
+
+	<string name="title">
+		가지 않은 길
+	</string>
+
+	<string name="author">
+		로버트 프로스트
+	</string>
+
+	<string name="contents">
+
+		노란 숲 속 두 갈래로 나 있었습니다.
+		\n두 길 다 가보지 못하는 것이 안타까워,
+		\n한동안 나그네로 서서
+		\n한쪽 깊이 굽어 꺾여 내려한 곳으로
+		\n눈이 닿는 데까지 멀리 바라보았습니다.
+
+
+	</string>
+</resources>
