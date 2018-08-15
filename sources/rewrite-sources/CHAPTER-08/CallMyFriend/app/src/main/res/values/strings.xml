@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">CallMyFriend</string>
+
+    <string name="username01">박하은</string>
+    <string name="relation01">첫째딸</string>
+    <string name="phone01">010-1111-1111</string>
+
+    <string name="username02">박하영</string>
+    <string name="relation02">막내딸</string>
+    <string name="phone02">010-2222-2222</string>
+
+
+	<string name="username03">박규태</string>
+	<string name="relation03">나</string>
+	<string name="phone03">010-3333-3333</string>
+
+
+
+</resources>
