@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">MusicAlbum</string>
+
+    <string name="name01">
+		Song01
+	</string>
+
+    <string name="singer01">
+		Author01
+	</string>
+
+    <string name="time01">
+		00:00:05
+	</string>
+
+    <string name="name02">
+		Song02
+	</string>
+
+    <string name="singer02">
+		Author02
+	</string>
+
+    <string name="time02">
+		00:00:05
+	</string>
+
+    <string name="name03">
+		Song03
+	</string>
+
+    <string name="singer03">
+		Author03
+	</string>
+
+    <string name="time03">
+		00:00:05
+	</string>
+    <string name="title_activity_song">SongActivity</string>
+
+</resources>
